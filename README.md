@@ -6,13 +6,13 @@ A modern Electron-based desktop application for peer-to-peer networking and dist
 ![Screenshot 2025-05-27 at 1 34 27 PM](https://github.com/user-attachments/assets/9432509d-25e9-4d18-95f6-a9d2fc083d22)
 
 ## 🌟 Features
-Peer-to-Peer Networking: Connect and manage peers in a decentralized network with real-time visualization
-Interactive World Map: Geographic visualization of peer nodes with population-scaled markers features.json:1831-1835
-Network Statistics: Monitor network performance and connection metrics
-Marketplace Integration: Trade and manage transactions within the decentralized ecosystem
-Cryptocurrency Wallet: Built-in wallet management for blockchain operations
-Mining Operations: Monitor and control blockchain mining activities
-Modern UI: Clean, responsive interface with dark/light theme support
+- **Peer-to-Peer Networking:** Connect and manage peers in a decentralized network with real-time visualization
+- **Interactive World Map:** Geographic visualization of peer nodes with population-scaled markers features.
+- **Network Statistics:** Monitor network performance and connection metrics
+- **Marketplace Integration:** Trade and manage transactions within the decentralized ecosystem
+- **Cryptocurrency Wallet:** Built-in wallet management for blockchain operations
+- **Mining Operations:** Monitor and control blockchain mining activities
+- **Modern UI:** Clean, responsive interface with dark/light theme support
 
 ## 🚀 Getting Started
 ### Prerequisites
